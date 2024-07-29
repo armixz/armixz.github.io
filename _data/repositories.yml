@@ -1,8 +1,7 @@
 github_users:
   - armixz
-  - Machine-Learning-Projects1
 
-repo_description_lines_max: 2
+repo_description_lines_max: 1
 
 github_repos:
   - armixz/Flipper-Zero-Programmer-Calculator
