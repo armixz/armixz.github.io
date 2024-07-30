@@ -9,10 +9,10 @@ profile:
   image: prof_photo.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>🌎🌳👪👨‍💻📐🌨☃🍦⚽🏓🎮🎹💾</p>
+    <p>🌎🌳👪👨‍💻💾📐🧪🔑🍦⚽🏓🎮🎹</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hi, I'm `Armin Ziaei`, a dedicated `Computer Scientist` with a BS in Computer Science from the University of Texas at Dallas. My passion for technology drives me to continuously explore and innovate in the realms of software engineering and system operations. At [HHAeXchange](https://www.hhaexchange.com/), where I work as a DevOps/SysOps Engineer, I utilize a range of technologies to enhance system efficiency and performance.
