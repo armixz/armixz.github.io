@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://github.com/armixz/'>Github</a>. <a href='https://www.linkedin.com/in/armin-ziaei-9594748b/'>LinkedIn</a>. <a href='mailto:armin.ziaei.tech@gmail.com'>Contact</a>
 
 profile:
   align: right
   image: prof_photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Redwood City, CA</p>
+    <p>🌳</p>
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm `Armin Ziaei`, a dedicated `Computer Scientist` with a Bachelor of Science in Computer Science from the University of Texas at Dallas. My passion for technology drives me to continuously explore and innovate in the realms of software engineering and system operations. At HHAeXchange, where I work as a SysOps Engineer, I utilize a range of technologies including Kafka, AWS, and Redis to enhance system efficiency and performance.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Throughout my career, I've honed my skills in multiple programming languages such as `C/C++`, `Python`, and `Java`. I thrive on solving complex problems and collaborating effectively with diverse teams. My `GitHub` profile features various projects, from machine learning applications to system simulations, showcasing my commitment to advancing my technical expertise and contributing to the tech community.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Feel free to connect with me on [GitHub](https://github.com/armixz/) and [LinkedIn](https://www.linkedin.com/in/armin-ziaei-9594748b/) to follow my journey and explore my work.
