@@ -1,7 +1,7 @@
 github_users:
   - armixz
 
-repo_description_lines_max: 1
+repo_description_lines_max: 2
 
 github_repos:
   - armixz/Flipper-Zero-Programmer-Calculator

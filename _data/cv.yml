@@ -15,17 +15,15 @@
       institution: The University of Texas at Dallas, United States
       year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Computer Science
+        - title: GPA
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - 3.8
+    - title: AS
+      institution: Collin College
+      year: 2018
       description:
-        - Description 1.
+        - Computer Science
         - Description 2.
 
 - title: Experience
