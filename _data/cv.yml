@@ -11,20 +11,18 @@
 - title: Education
   type: time_table
   contents:
-    - title: BS
+    - title: Bachelor of Science (BS)
       institution: The University of Texas at Dallas, United States
       year: 2022
       description:
         - Computer Science
-        - title: GPA
-          contents:
-            - 3.8
-    - title: AS
+        - GPA 3.8
+    - title: Associate of Science (AS)
       institution: Collin College
       year: 2018
       description:
         - Computer Science
-        - Description 2.
+        - GPA 4.0
 
 - title: Experience
   type: time_table
