@@ -52,7 +52,34 @@
       "startDate": "2018",
       "endDate": "2022",
       "score": "3.87",
-      "courses": ["Computer Science"]
+      "courses": [
+        "Computer Science",
+        "Discrete Mathematics for Computing",
+        "Computer Architecture",
+        "Probability and Statistics in Computer Science",
+        "Data Structures and Introduction to Algorithmic Analysis",
+        "Systems Programming in UNIX",
+        "Digital Logic and Computer Design",
+        "Database Systems",
+        "Operating Systems Concepts",
+        "Advanced Algorithm Design and Analysis",
+        "Automata Theory",
+        "Computer Science Project",
+        "Intelligent Systems Analysis",
+        "Intelligent Systems Design",
+        "Artificial Intelligence",
+        "Introduction to Machine Learning",
+        "Object-Oriented Design",
+        "Compiler Design",
+        "Data and Applications Security",
+        "Computer Networks",
+        "Introduction to Computer Vision",
+        "Computer and Network Security",
+        "Implementation of Modern Operating Systems",
+        "Embedded Computer Systems",
+        "Introduction to VLSI Design",
+        "Software Project Management"
+    ]    
     },
     {
       "institution": "Collin College",
@@ -63,7 +90,11 @@
       "startDate": "2015",
       "endDate": "2017",
       "score": "4.0",
-      "courses": ["Computer Science"]
+      "courses": [
+        "Calculus",
+        "Discrete Mathematics for Computing",
+        "Programming Fundamentals",
+        "University Physics"]
     }
   ],
   "certificates": [
