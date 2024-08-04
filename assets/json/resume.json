@@ -25,21 +25,21 @@
   "work": [
     {
       "name": "HHAeXchange",
-      "position": "Software Engineer - DevOps/CloudOps",
+      "position": "Software Engineer",
       "url": "https://hhaexchange.com",
       "startDate": "2023-01-01",
       "endDate": "",
       "summary": "Coordination . Maintenance . Automation . Backup . Collaboration . Documentation . Training . Alerting . Monitoring",
-      "highlights": ["DevOps", "CloudOps"]
+      "highlights": ["DevOps", "CloudOps", "Incident Management"]
     },
     {
       "name": "HHAeXchange",
-      "position": "Software Engineer - SystemOperationsEngineer/SRE",
+      "position": "Software Engineer",
       "url": "https://hhaexchange.com",
       "startDate": "2021-04-10",
       "endDate": "2022-12-31",
       "summary": "Troubleshooting . Analysis . Solutions . Training . Documentation . Monitoring . Reviews . Automation . Scripting",
-      "highlights": ["Site Reliability Engineering"]
+      "highlights": ["Site Reliability Engineering", "System Operations Engineer"]
     }
   ],
   "education": [
