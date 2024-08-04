@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/armixz/'>Github</a>. <a href='https://www.linkedin.com/in/armin-ziaei-9594748b/'>LinkedIn</a>. <a href='mailto:armin.ziaei.tech@gmail.com'>Contact</a>
+subtitle: <a href='https://github.com/armixz/'>Github</a>. <a href='https://www.linkedin.com/in/armin-ziaei-9594748b/'>LinkedIn</a>. <a href='mailto:armin.ziaei.tech@gmail.com'>Email</a>
 
 profile:
   align: right
