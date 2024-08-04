@@ -142,40 +142,153 @@
   ],
   "projects": [
     {
-      "name": "Compiler Design II",
-      "summary": "Researched and developed a compiler including a lexical analyzer and regular expressions.",
-      "highlights": ["Lexical analysis", "Regular expressions"],
+      "name": "Kafka Consumer Manager",
+      "summary": "Developed a Kafka consumer manager application using Django and Python to manage consumers.",
+      "highlights": ["Kafka", "Django", "Python"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-01"
+    },
+    {
+      "name": "Big Data Monitoring",
+      "summary": "Implemented monitoring for 2M transaction weekly data points using best practices to ensure efficiency, cost optimization, and resource performance with Datadog and Python.",
+      "highlights": ["Big Data", "Monitoring", "Datadog", "Python"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-01"
+    }
+    {
+      "name": "Datadog Custom Metrics Automation",
+      "summary": "Led Datadog automation to create custom metrics for database queries using Python and Datadog API.",
+      "highlights": ["Python Scripting", "Datadog API Integration"],
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01"
+    },
+    {
+      "name": "Ansible Automation",
+      "summary": "Spearheaded system updates and patching automation with Ansible.",
+      "highlights": ["Ansible Playbooks", "Automation"],
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-01"
+    },
+    {
+      "name": "Datadog APM Analysis",
+      "summary": "Analyzed Datadog APM to forecast usage and failures with machine learning models.",
+      "highlights": ["Datadog APM", "Machine Learning"],
+      "startDate": "2023-03-01",
+      "endDate": "2023-06-01"
+    },
+    {
+      "name": "Powershell Automation for Log File Management",
+      "summary": "Developed PowerShell scripts for daily log file management and disk cleanup, utilizing custom and built-in functions.",
+      "highlights": ["PowerShell", "Automation"],
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-01"
+    },
+    {
+      "name": "System Usage Analysis",
+      "summary": "Conducted system usage analysis with machine learning on large datasets using Python and scikit-learn.",
+      "highlights": ["Python", "scikit-learn"],
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "name": "Large Scale Data Analysis and Data Engineering",
+      "summary": "Implemented algorithms for large-scale data analysis and engineering using Python, Regex, .NET, and Shell.",
+      "highlights": ["Data Analysis", "Data Engineering"],
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "name": "Halo Collar Activity Recognition",
+      "summary": "Partnered with PAWS LLC to create a GPS and sensor-based machine learning model for dog activity recognition using Python and scikit-learn.",
+      "highlights": ["Machine Learning", "Python"],
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-01"
+    },
+    {
+      "name": "Protocol Design",
+      "summary": "Developed a CRSP-compliant communication protocol application using Python and Mininet.",
+      "highlights": ["Protocol Design", "Python"],
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-01",
+      "url": "http://github.com/armixz/Protocol-Design"
+    },
+    {
+      "name": "Compiler Design",
+      "summary": "Researched and developed a compiler with lexical analysis and regular expressions in Java, Bash, and Lex.",
+      "highlights": ["Compiler Design", "Java"],
+      "startDate": "2022-09-01",
+      "endDate": "2022-12-01",
       "url": "https://github.com/armixz/Compiler-Design-II"
     },
     {
-      "name": "Flipper Zero Programmer Calculator",
-      "summary": "A Calculator for Programmers!",
-      "highlights": ["Flipper Zero", "Calculator"],
-      "url": "https://github.com/armixz/Flipper-Zero-Programmer-Calculator"
+      "name": "Task Manager",
+      "summary": "Led the creation of an SQL-based task manager integrating multiple technologies for enhanced task management.",
+      "highlights": ["SQL", "Task Management"],
+      "startDate": "2022-03-01",
+      "endDate": "2022-06-01",
+      "url": "https://github.com/armixz/Task-Manager-Development"
     },
     {
-      "name": "AI Knowledge Representation",
-      "summary": "Developed a knowledge representation paradigm to create a simple question-answering tool using Prolog.",
-      "highlights": ["Knowledge representation", "Prolog"],
-      "url": "https://github.com/armixz/AI-Knowledge-Representation"
+      "name": "Computer System Simulation",
+      "summary": "Executed a CPU and memory process simulation using C/C++, showcasing deep systems understanding.",
+      "highlights": ["C/C++", "System Simulation"],
+      "startDate": "2022-03-01",
+      "endDate": "2022-06-01",
+      "url": "https://github.com/armixz/Computer-System-Simulation"
     },
     {
-      "name": "8-Puzzle Solver",
-      "summary": "Implemented an AI-based 8-puzzle solver with various search algorithms.",
-      "highlights": ["Depth-first search", "Iterative deepening search", "A* search"],
-      "url": "https://github.com/armixz/8-Puzzle-Solver"
+      "name": "Digit Recognizer",
+      "summary": "Developed a digit identification system for handwritten images using Python and scikit-learn.",
+      "highlights": ["Digit Recognition", "Python"],
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01",
+      "url": "https://github.com/armixz/Digit-Recognizer"
     },
     {
-      "name": "Machine Learning Theory",
-      "summary": "Focused on the design and application of machine learning algorithms and models.",
-      "highlights": ["Learning algorithms", "Model design"],
+      "name": "Machine Learning Algorithms R&D",
+      "summary": "Researched and applied various learning algorithms, enhancing algorithmic knowledge and application.",
+      "highlights": ["Machine Learning", "Algorithms"],
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01",
       "url": "https://github.com/armixz/Machine-Learning-Theory"
     },
     {
+      "name": "AI Knowledge Representation",
+      "summary": "Implemented a Prolog-based knowledge representation tool for sophisticated question-answering.",
+      "highlights": ["Knowledge Representation", "Prolog"],
+      "url": "https://github.com/armixz/AI-Knowledge-Representation",
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
+      "name": "8 Puzzle Solver",
+      "summary": "Solved the '8 Puzzle' using advanced AI algorithms, demonstrating problem-solving acumen.",
+      "highlights": ["AI Algorithms", "Problem Solving"],
+      "url": "https://github.com/armixz/8-Puzzle-Solver",
+      "startDate": "2021-09-01",
+      "endDate": "2021-12-01"
+    },
+    {
       "name": "ALU Design and Development",
-      "summary": "Designed and developed a 32-bit Arithmetic Logic Unit (ALU) with Verilog and digital circuit components.",
-      "highlights": ["Verilog", "Digital circuits"],
-      "url": "https://github.com/armixz/ALU-Design-and-Development"
+      "summary": "Researched and created a 32-bit ALU with 16 commands using Verilog HDL and VHDL.",
+      "highlights": ["Verilog", "VHDL"],
+      "url": "https://github.com/armixz/ALU-Design-and-Development",
+      "startDate": "2020-09-01",
+      "endDate": "2020-12-01"
+    },
+    {
+      "name": "Chat System Development",
+      "summary": "Developed a TCP/UDP chat system in a Unix environment, focusing on real-time network communication.",
+      "highlights": ["TCP/UDP", "Network Communication"],
+      "startDate": "2019-03-01",
+      "endDate": "2019-06-01"
+    },
+    {
+      "name": "Bash CLI Development",
+      "summary": "Created a Bash CLI application in Unix, enhancing system interaction and command processing.",
+      "highlights": ["Bash CLI", "Unix"],
+      "startDate": "2018-09-01",
+      "endDate": "2018-12-01"
     }
   ]
 }
