@@ -53,7 +53,6 @@
       "endDate": "2022",
       "score": "3.87",
       "courses": [
-        "Computer Science",
         "Discrete Mathematics for Computing",
         "Computer Architecture",
         "Probability and Statistics in Computer Science",
@@ -64,21 +63,12 @@
         "Operating Systems Concepts",
         "Advanced Algorithm Design and Analysis",
         "Automata Theory",
-        "Computer Science Project",
-        "Intelligent Systems Analysis",
-        "Intelligent Systems Design",
         "Artificial Intelligence",
         "Introduction to Machine Learning",
-        "Object-Oriented Design",
         "Compiler Design",
         "Data and Applications Security",
-        "Computer Networks",
-        "Introduction to Computer Vision",
         "Computer and Network Security",
-        "Implementation of Modern Operating Systems",
-        "Embedded Computer Systems",
-        "Introduction to VLSI Design",
-        "Software Project Management"
+        "Introduction to VLSI Design"
     ]    
     },
     {
