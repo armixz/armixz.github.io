@@ -49,8 +49,8 @@
       "url": "https://www.utdallas.edu/",
       "area": "Computer Science",
       "studyType": "BS",
-      "startDate": "2018-06-10",
-      "endDate": "2022-12-15",
+      "startDate": "2018",
+      "endDate": "2022",
       "score": "3.87",
       "courses": ["Computer Science"]
     },
@@ -69,7 +69,7 @@
   "certificates": [
     {
       "name": "Datadog Fundamentals",
-      "date": "2024-06-21",
+      "date": "2024",
       "issuer": "Datadog - PSI",
       "url": "https://www.psiexams.com/",
       "icon": "fa-solid fa-location-dot"
@@ -154,7 +154,7 @@
       "highlights": ["Big Data", "Monitoring", "Datadog", "Python"],
       "startDate": "2024-01-01",
       "endDate": "2024-04-01"
-    }
+    },
     {
       "name": "Datadog Custom Metrics Automation",
       "summary": "Led Datadog automation to create custom metrics for database queries using Python and Datadog API.",
