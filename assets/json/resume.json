@@ -170,6 +170,14 @@
       "endDate": "2024-04-01"
     },
     {
+      "name": "Flipper Zero Programmer Calculator",
+      "summary": "Developed a calculator application designed to run on Flipper Zero.",
+      "highlights": ["Flipper Zero", "C", "FURI"],
+      "startDate": "2024-01-01",
+      "endDate": "2024-04-01",
+      "url": "https://github.com/armixz/Flipper-Zero-Programmer-Calculator"
+    },
+    {
       "name": "Big Data Monitoring",
       "summary": "Implemented monitoring for 2M transaction weekly data points using best practices to ensure efficiency, cost optimization, and resource performance with Datadog and Python.",
       "highlights": ["Big Data", "Monitoring", "Datadog", "Python"],
