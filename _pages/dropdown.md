@@ -11,6 +11,6 @@ children:
   - title: Project Euler
     permalink: /projects/
   - title: divider
-  - title: Leedcode
+  - title: LeetCode
     permalink: /blog/
 ---
