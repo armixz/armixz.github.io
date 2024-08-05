@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Solutions
+title: solutions
 nav: true
 nav_order: 1
 dropdown: true
