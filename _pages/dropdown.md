@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: Solutions
 nav: true
-nav_order: 8
+nav_order: 1
 dropdown: true
 children:
-  - title: publications
+  - title: CLRS
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: Project Euler
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: Leedcode
     permalink: /blog/
 ---
