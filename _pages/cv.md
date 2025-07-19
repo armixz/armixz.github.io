@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 6
-cv_pdf: Armin_Ziaei_Resume.pdf
-description: I am a DevOps/CloudOps Engineer with a BS in Computer Science from the University of Texas at Dallas. I am skilled in root cause analysis, technical troubleshooting, and automation, and I excel at system management and performance monitoring.
+cv_pdf: Armin-Ziaei-Resume-July-2025.pdf
+description: Senior MLOps Engineer specializing in Kubernetes infrastructure, CI/CD pipelines, and enterprise-scale cloud solutions. Computer Science graduate from UT Dallas with expertise in machine learning operations, distributed systems, and production software engineering.
 toc:
   sidebar: left
 ---

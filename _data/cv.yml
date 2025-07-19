@@ -9,8 +9,10 @@
       value: +1 650-620-0912
     - name: Email
       value: armin.ziaei.tech@gmail.com
+    - name: Portfolio
+      value: armixz.github.io
     - name: LinkedIn
-      value: linkedin.com/in/armin-ziaei
+      value: linkedin.com/in/armin-ziaei-9594748b
     - name: GitHub
       value: github.com/armixz
     - name: Languages
@@ -21,12 +23,12 @@
   contents:
     - title: Bachelor of Science in Computer Science
       institution: The University of Texas at Dallas, Richardson, TX
-      year: 2018 - 2022
+      year: 08/2018 - 12/2022
       description:
         - "GPA: 3.86"
     - title: Associate of Science in Computer Science
       institution: Collin College, Dallas, TX
-      year: 2015 - 2018
+      year: 08/2015 - 05/2018
       description:
         - "GPA: 4.00"
 
@@ -81,53 +83,87 @@
 - title: University Projects
   type: time_table
   contents:
-    - title: Automated Vehicle Speed Control System
-      institution: Digital Systems Design, UT Dallas
-      year: 2021
+    - title: Halo Collar Activity Recognition
+      institution: Machine Learning Project
+      year: Fall 2022
       description:
-        - Developed FPGA-based vehicle speed control system using Verilog HDL on Xilinx platform
-        - Implemented real-time speed monitoring with automatic braking mechanisms
-        - Designed comprehensive testing framework ensuring safety compliance standards
+        - Engineered a GPS and sensor-based machine learning model for canine activity classification using Python and scikit-learn, achieving 89% accuracy across 8 distinct behavioral patterns and processing real-time sensor data from 500+ collar devices for the PAWS LLC partnership.
 
-    - title: Multi-Paradigm Programming Language Interpreter
-      institution: Programming Language Paradigms, UT Dallas
-      year: 2021
+    - title: Distributed Network Communication Protocol
+      institution: Network Programming Project
+      year: Fall 2022
       description:
-        - Built interpreter supporting functional, logic, and object-oriented programming paradigms
-        - Implemented lexical analysis, parsing, and semantic evaluation engines
-        - Achieved 95% test coverage across multiple programming constructs
+        - Architected CRSP-compliant distributed system with controller, renderer, and server components using UDP socket programming in Python, implementing concurrent message processing with multithreading and multiprocessing for file streaming operations supporting pause, resume, and restart functionality across networked hosts.
+        - "GitHub: github.com/armixz/Protocol-Design"
 
-    - title: Advanced Database Management System
-      institution: Database Design, UT Dallas
-      year: 2020
+    - title: Production Compiler Implementation
+      institution: Compiler Design Project
+      year: Fall 2022
       description:
-        - Designed and implemented relational database system with advanced indexing
-        - Built query optimization engine reducing average query time by 60%
-        - Implemented ACID compliance and transaction management features
+        - Architected a complete compiler system using Java with JFlex lexical analyzer and CUP parser generator, implementing a comprehensive grammar supporting classes, methods, arrays, expressions, and control flow statements, validated through 21 distinct test cases covering syntax analysis, semantic checking, and error handling for type safety and program correctness.
+        - "GitHub: github.com/armixz/Compiler-Design-II"
 
-    - title: Computer Graphics Rendering Engine
-      institution: Computer Graphics, UT Dallas
-      year: 2020
+    - title: Enterprise Task Management Platform
+      institution: Full-Stack Web Development
+      year: Spring 2022
       description:
-        - Developed 3D graphics rendering engine using OpenGL and C++
-        - Implemented advanced lighting models and texture mapping algorithms
-        - Created real-time scene management system with collision detection
+        - Led development of full-stack web application using PHP, Apache, and SQL database with comprehensive Entity-Relationship modeling, implementing normalized database design supporting user authentication, task tracking, and reporting capabilities with web-based interface for enterprise task management workflows.
+        - "GitHub: github.com/armixz/Task-Manager-Development"
 
-    - title: Network Security Protocol Implementation
-      institution: Computer Networks, UT Dallas
-      year: 2020
+    - title: Operating System Process Simulator
+      institution: Operating Systems Project
+      year: Spring 2022
       description:
-        - Implemented secure communication protocols using RSA and AES encryption
-        - Built network packet analysis tools for security vulnerability assessment
-        - Designed intrusion detection system with machine learning-based anomaly detection
+        - Developed multi-process computer system simulation using C/C++ with separate CPU and Memory processes communicating via Inter-Process Communication, demonstrating deep understanding of operating system concepts, including process scheduling, memory management, and low-level system programming with concurrent execution handling.
+        - "GitHub: github.com/armixz/Computer-System-Simulation"
 
-    - title: Machine Learning Classification System
-      institution: Machine Learning, UT Dallas
-      year: 2019
+    - title: Computer Vision Digit Classification
+      institution: Machine Learning Project
+      year: Fall 2021
       description:
-        - Developed multi-class classification system using ensemble learning methods
-        - Implemented feature engineering pipeline achieving 92% accuracy on test dataset
-        - Built model evaluation framework with cross-validation and hyperparameter tuning
+        - Built production-ready handwritten digit recognition system for MNIST dataset using Python and scikit-learn, implementing image preprocessing pipelines for 28x28 pixel grayscale images, achieving 97%+ classification accuracy with comprehensive data validation and Kaggle-style competition submission format.
+        - "GitHub: github.com/armixz/Digit-Recognizer"
+
+    - title: Machine Learning Algorithm Library
+      institution: Machine Learning Theory Project
+      year: Fall 2021
+      description:
+        - Engineered a comprehensive ML framework implementing 12 fundamental algorithms, including Linear Regression (direct method, polynomial, SGD), K-Means clustering, PCA with eigenface analysis, K-Nearest Neighbors on the MNIST dataset, Logistic Regression, and Decision Trees, with performance benchmarking across multiple datasets and automated hyperparameter optimization.
+        - "GitHub: github.com/armixz/Machine-Learning-Theory"
+
+    - title: Prolog Knowledge Representation System
+      institution: AI Programming Project
+      year: Fall 2021
+      description:
+        - Developed an enterprise-grade question-answering system using Prolog with a first-order logic implementation, featuring a comprehensive knowledge base containing 50+ facts and 20+ inference rules, supporting complex logical reasoning queries with 95% accuracy for domain-specific questions about retail transactions and inventory management.
+        - "GitHub: github.com/armixz/AI-Knowledge-Representation"
+
+    - title: Multi-Algorithm AI Search Engine
+      institution: Artificial Intelligence Project
+      year: Fall 2021
+      description:
+        - Implemented sophisticated 8-puzzle solver using four distinct search algorithms, including Depth-First Search, Iterative Deepening Search, and A* search with Manhattan distance and misplaced tile heuristics, achieving optimal solutions with a command-line interface and file-based input processing for automated testing and performance comparison.
+        - "GitHub: github.com/armixz/8-Puzzle-Solver"
+
+    - title: 32-Bit ALU Hardware Architecture
+      institution: Digital Systems Design Project
+      year: Fall 2020
+      description:
+        - Designed a comprehensive 32-bit Arithmetic Logic Unit supporting 16 operations using Verilog HDL, implementing complex multiplexer architecture with error detection for overflow and divide-by-zero conditions, sequential logic components including accumulator register and flip-flops, and a comprehensive test bench validation, achieving timing requirements for 100MHz operation.
+        - "GitHub: github.com/armixz/ALU-Design-and-Development"
+
+    - title: Multi-Protocol Network Chat System
+      institution: Network Programming Project
+      year: Spring 2019
+      description:
+        - Engineered real-time communication system supporting both TCP and UDP protocols in a Unix environment using C/C++ and Python, implementing client-server architecture with concurrent connection handling, demonstrating network programming expertise and understanding of protocol-level communication differences.
+        - "GitHub: github.com/armixz/Chat-System-Development"
+
+    - title: Custom Shell Command Processor
+      institution: Systems Programming Project
+      year: Fall 2018
+      description:
+        - Developed a comprehensive Bash command-line interface application in a Unix environment using shell scripting and system programming, implementing custom command parsing, input validation, and process management capabilities. The application enhanced system interaction efficiency by streamlining command processing, automating task execution, and improving the user experience for routine administrative operations.
 
 - title: Technical Skills
   type: nested_list
@@ -138,51 +174,36 @@
         - Bash
         - C/C++
         - Java
-        - JavaScript
         - SQL
         - Verilog/VHDL
         - Prolog
-        - R
     - title: Cloud & DevOps
       items:
         - Kubernetes
         - Docker
-        - AWS (EC2, S3, Lambda, ECS, CloudFormation)
-        - GCP (GKE, Cloud Storage, Deployment Manager)
+        - AWS
+        - GCP
         - Azure
+        - Git
+        - Jenkins
         - Terraform
         - Helm
-        - Jenkins
-        - GitHub Actions
-        - Git
-    - title: Machine Learning & Data
-      items:
         - MLflow
-        - scikit-learn
-        - TensorFlow
-        - PyTorch
-        - Pandas
-        - NumPy
-        - Jupyter
     - title: Monitoring & Observability
       items:
         - Prometheus
         - Grafana
-        - Datadog
-        - ELK Stack
-        - Splunk
     - title: Systems & Networking
       items:
         - Linux/Unix Systems Administration
-        - Network Protocols (TCP/UDP, HTTP/HTTPS)
-        - Database Design and Management (MySQL, PostgreSQL, MongoDB)
-        - Microservices Architecture
-        - Container Orchestration
+        - Network Protocols (TCP/UDP)
+        - Database Design and Management
+    - title: Machine Learning
+      items:
+        - scikit-learn
 
 - title: Interests
   type: list
   contents:
     - IoT Edge Computing Projects
     - Cybersecurity Research
-    - Open Source Contributions
-    - Cloud Native Technologies
