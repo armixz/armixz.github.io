@@ -9,9 +9,8 @@ profile:
   image: prof_photo.png
   image_circular: true # crops the image to make it circular
   more_info: >
-  <p>📍 San Mateo, CA</p>
-  <p>☎️ +1 650-620-0912</p>
-  <p>🌎🌳👪👨‍💻💾📐🧪🔑🍦⚽🏓🎮🎹</p>
+    <p>📍 San Mateo, CA</p>
+    <p>☎️ +1 650-620-0912</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
