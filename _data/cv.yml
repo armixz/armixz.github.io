@@ -9,6 +9,10 @@
       value: +1 650-620-0912
     - name: Email
       value: armin.ziaei.tech@gmail.com
+    - name: LinkedIn
+      value: linkedin.com/in/armin-ziaei
+    - name: GitHub
+      value: github.com/armixz
     - name: Languages
       value: English, Farsi
 
@@ -74,6 +78,57 @@
         - Monitored production application architecture, maintaining system stability and proactively identifying performance bottlenecks before they impacted end-user experience.
         - Conducted systematic root cause analysis for production incidents, documenting detailed findings and implementing preventive measures.
 
+- title: University Projects
+  type: time_table
+  contents:
+    - title: Automated Vehicle Speed Control System
+      institution: Digital Systems Design, UT Dallas
+      year: 2021
+      description:
+        - Developed FPGA-based vehicle speed control system using Verilog HDL on Xilinx platform
+        - Implemented real-time speed monitoring with automatic braking mechanisms
+        - Designed comprehensive testing framework ensuring safety compliance standards
+
+    - title: Multi-Paradigm Programming Language Interpreter
+      institution: Programming Language Paradigms, UT Dallas
+      year: 2021
+      description:
+        - Built interpreter supporting functional, logic, and object-oriented programming paradigms
+        - Implemented lexical analysis, parsing, and semantic evaluation engines
+        - Achieved 95% test coverage across multiple programming constructs
+
+    - title: Advanced Database Management System
+      institution: Database Design, UT Dallas
+      year: 2020
+      description:
+        - Designed and implemented relational database system with advanced indexing
+        - Built query optimization engine reducing average query time by 60%
+        - Implemented ACID compliance and transaction management features
+
+    - title: Computer Graphics Rendering Engine
+      institution: Computer Graphics, UT Dallas
+      year: 2020
+      description:
+        - Developed 3D graphics rendering engine using OpenGL and C++
+        - Implemented advanced lighting models and texture mapping algorithms
+        - Created real-time scene management system with collision detection
+
+    - title: Network Security Protocol Implementation
+      institution: Computer Networks, UT Dallas
+      year: 2020
+      description:
+        - Implemented secure communication protocols using RSA and AES encryption
+        - Built network packet analysis tools for security vulnerability assessment
+        - Designed intrusion detection system with machine learning-based anomaly detection
+
+    - title: Machine Learning Classification System
+      institution: Machine Learning, UT Dallas
+      year: 2019
+      description:
+        - Developed multi-class classification system using ensemble learning methods
+        - Implemented feature engineering pipeline achieving 92% accuracy on test dataset
+        - Built model evaluation framework with cross-validation and hyperparameter tuning
+
 - title: Technical Skills
   type: nested_list
   contents:
@@ -83,35 +138,51 @@
         - Bash
         - C/C++
         - Java
+        - JavaScript
         - SQL
         - Verilog/VHDL
         - Prolog
+        - R
     - title: Cloud & DevOps
       items:
         - Kubernetes
         - Docker
-        - AWS
-        - GCP
+        - AWS (EC2, S3, Lambda, ECS, CloudFormation)
+        - GCP (GKE, Cloud Storage, Deployment Manager)
         - Azure
         - Terraform
         - Helm
         - Jenkins
+        - GitHub Actions
         - Git
-    - title: Machine Learning & Monitoring
+    - title: Machine Learning & Data
       items:
         - MLflow
         - scikit-learn
+        - TensorFlow
+        - PyTorch
+        - Pandas
+        - NumPy
+        - Jupyter
+    - title: Monitoring & Observability
+      items:
         - Prometheus
         - Grafana
         - Datadog
+        - ELK Stack
+        - Splunk
     - title: Systems & Networking
       items:
         - Linux/Unix Systems Administration
-        - Network Protocols (TCP/UDP)
-        - Database Design and Management
+        - Network Protocols (TCP/UDP, HTTP/HTTPS)
+        - Database Design and Management (MySQL, PostgreSQL, MongoDB)
+        - Microservices Architecture
+        - Container Orchestration
 
 - title: Interests
   type: list
   contents:
     - IoT Edge Computing Projects
     - Cybersecurity Research
+    - Open Source Contributions
+    - Cloud Native Technologies
