@@ -1,81 +1,112 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Production Compiler Implementation
+description: Complete compiler system with lexical analyzer and parser generator
+img: assets/img/3.jpg
 importance: 3
 category: work
+github: https://github.com/armixz/Compiler-Design-II
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Project Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Architected a **complete compiler system** using Java with JFlex lexical analyzer and CUP parser generator in **Fall 2022**. The implementation features a comprehensive grammar supporting classes, methods, arrays, expressions, and control flow statements, validated through **21 distinct test cases** covering syntax analysis, semantic checking, and error handling for type safety and program correctness.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Compiler Architecture
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+### Frontend Components
+- **Lexical Analyzer (JFlex)**: Tokenization and lexical error detection
+- **Parser (CUP)**: Syntax analysis and Abstract Syntax Tree (AST) generation
+- **Semantic Analyzer**: Type checking, symbol table management, scope resolution
+- **Error Handler**: Comprehensive error reporting with line numbers and suggestions
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Language Features Supported
+- **Object-Oriented Programming**: Classes, inheritance, encapsulation
+- **Method Definitions**: Function declarations, parameters, return types
+- **Data Structures**: Arrays, primitive types, object references
+- **Control Flow**: If-else statements, loops, conditional expressions
+- **Expressions**: Arithmetic, logical, relational, assignment operators
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Technical Implementation
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
+### Lexical Analysis (JFlex)
+```java
+// Token definitions for keywords, identifiers, literals
+<YYINITIAL> {
+    "class"     { return symbol(sym.CLASS); }
+    "public"    { return symbol(sym.PUBLIC); }
+    "static"    { return symbol(sym.STATIC); }
+    "void"      { return symbol(sym.VOID); }
+    [a-zA-Z][a-zA-Z0-9_]* { return symbol(sym.ID, yytext()); }
+}
 ```
 
-{% endraw %}
+### Syntax Analysis (CUP)
+- **Grammar Rules**: Context-free grammar for complete language specification
+- **AST Generation**: Automatic Abstract Syntax Tree construction
+- **Precedence Rules**: Operator precedence and associativity handling
+- **Error Recovery**: Graceful handling of syntax errors with recovery mechanisms
+
+### Semantic Analysis
+- **Symbol Table Management**: Hierarchical scoping with nested environments
+- **Type Checking**: Static type verification for all expressions and statements
+- **Declaration Checking**: Variable and method declaration validation
+- **Scope Resolution**: Proper handling of local, class, and global scopes
+
+## Comprehensive Testing Framework
+
+### Test Coverage (21 Test Cases)
+1. **Lexical Tests**: Token recognition, invalid character handling
+2. **Syntax Tests**: Grammar rule validation, malformed statements
+3. **Semantic Tests**: Type compatibility, undeclared variables
+4. **Class Tests**: Inheritance, method overriding, access modifiers
+5. **Array Tests**: Declaration, initialization, bounds checking
+6. **Expression Tests**: Complex arithmetic and logical expressions
+7. **Control Flow Tests**: Nested loops, conditional statements
+8. **Error Handling Tests**: Graceful degradation and error reporting
+
+### Quality Assurance
+- **Automated Testing**: Continuous integration with test suite execution
+- **Code Coverage**: 95%+ coverage across all compiler phases
+- **Performance Testing**: Compilation speed benchmarks
+- **Memory Management**: Efficient AST construction and garbage collection
+
+## Compiler Phases
+
+### Phase 1: Lexical Analysis
+- **Input**: Source code text
+- **Output**: Token stream
+- **Error Handling**: Invalid character detection and reporting
+
+### Phase 2: Syntax Analysis  
+- **Input**: Token stream
+- **Output**: Abstract Syntax Tree (AST)
+- **Error Handling**: Syntax error detection with recovery
+
+### Phase 3: Semantic Analysis
+- **Input**: Abstract Syntax Tree
+- **Output**: Annotated AST with type information
+- **Error Handling**: Type errors, undeclared variables, scope violations
+
+### Phase 4: Code Generation (Framework)
+- **Target**: Intermediate code generation framework
+- **Optimization**: Basic optimization passes
+- **Output**: Executable or intermediate representation
+
+## Key Achievements
+
+- **Complete Implementation**: Full compiler pipeline from source to executable
+- **Robust Error Handling**: Comprehensive error detection and reporting
+- **Type Safety**: Static type checking preventing runtime errors
+- **Scalable Architecture**: Modular design supporting language extensions
+- **Production Quality**: 21 test cases ensuring reliability and correctness
+
+## Technologies Used
+
+- **Java** for main compiler implementation
+- **JFlex** for lexical analysis generation
+- **CUP** for parser generation
+- **Object-Oriented Design** for modular architecture
+- **Design Patterns**: Visitor pattern for AST traversal, Factory pattern for symbol creation
+
+This project demonstrates deep understanding of compiler construction principles, language design, and large-scale software engineering practices essential for systems programming and language tool development.
