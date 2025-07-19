@@ -5,7 +5,6 @@ description: GPS and sensor-based machine learning model for canine activity cla
 # img: assets/img/halo.jpg
 importance: 1
 category: work
-github: https://github.com/armixz/halo-collar-activity
 ---
 
 ## Project Overview
