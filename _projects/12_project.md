@@ -5,7 +5,6 @@ description: Comprehensive Bash command-line interface in Unix environment
 img: assets/img/shell.jpg
 importance: 12
 category: work
-github: https://github.com/armixz/Shell-Command-Processor
 ---
 
 ## Project Overview
