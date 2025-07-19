@@ -2,7 +2,7 @@
 layout: page
 title: Prolog Knowledge Representation System
 description: Enterprise-grade question-answering system with first-order logic
-img: assets/img/8.jpg
+img: assets/img/prolog.jpg
 importance: 8
 category: work
 github: https://github.com/armixz/AI-Knowledge-Representation

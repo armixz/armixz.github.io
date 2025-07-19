@@ -2,7 +2,7 @@
 layout: page
 title: Halo Collar Activity Recognition
 description: GPS and sensor-based machine learning model for canine activity classification
-img: assets/img/1.jpg
+img: assets/img/halo.jpg
 importance: 1
 category: work
 github: https://github.com/armixz/halo-collar-activity

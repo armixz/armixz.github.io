@@ -2,7 +2,7 @@
 layout: page
 title: Production Compiler Implementation
 description: Complete compiler system with lexical analyzer and parser generator
-img: assets/img/3.jpg
+img: assets/img/compiler.jpg
 importance: 3
 category: work
 github: https://github.com/armixz/Compiler-Design-II

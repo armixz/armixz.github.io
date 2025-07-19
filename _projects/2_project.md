@@ -2,7 +2,7 @@
 layout: page
 title: Distributed Network Communication Protocol
 description: CRSP-compliant distributed system with UDP socket programming
-img: assets/img/2.jpg
+img: assets/img/comm.jpg
 importance: 2
 category: work
 github: https://github.com/armixz/Protocol-Design

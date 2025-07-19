@@ -2,7 +2,7 @@
 layout: page
 title: Custom Shell Command Processor
 description: Comprehensive Bash command-line interface in Unix environment
-img: assets/img/12.jpg
+img: assets/img/shell.jpg
 importance: 12
 category: work
 github: https://github.com/armixz/Shell-Command-Processor

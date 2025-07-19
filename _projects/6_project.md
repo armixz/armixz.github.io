@@ -2,7 +2,7 @@
 layout: page
 title: Computer Vision Digit Classification
 description: Production-ready handwritten digit recognition system for MNIST dataset
-img: assets/img/6.jpg
+img: assets/img/digit-classifier.jpg
 importance: 6
 category: work
 github: https://github.com/armixz/Digit-Recognizer
