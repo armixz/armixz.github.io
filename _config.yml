@@ -8,7 +8,7 @@ middle_name:
 last_name: Ziaei
 email: armin.ziaei.tech@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Senior MLOps Engineer specializing in Kubernetes infrastructure, CI/CD pipelines, and enterprise-scale cloud solutions. Computer Science graduate from UT Dallas with expertise in machine learning operations, distributed systems, and production software engineering.
 footer_text: >
   Made with ❤  |  
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
