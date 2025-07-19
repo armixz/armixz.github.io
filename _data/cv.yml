@@ -48,7 +48,7 @@
       year: 08/2024 - 03/2025
       description:
         - Designed and deployed a production-grade multimodal RAG system using Helm charts and microservices architecture on Google Cloud Platform with 94% retrieval accuracy and sub-200ms response times.
-        - Implemented automated CI/CD pipelines using GitHub Actions for Google Kubernetes Engine deployments.
+        - Implemented automated CI/CD pipelines using GitHub Actions for Google Kubernetes Engine deployments, reducing deployment time by 60% and establishing standardized workflows across development teams.
 
     - title: Cloud Operations Engineer
       institution: HHAeXchange, Ashburn, VA

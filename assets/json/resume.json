@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Armin Ziaei",
-    "label": "Computer Scientist",
+    "label": "Senior MLOps Engineer",
     "image": "",
     "email": "armin.ziaei.tech@gmail.com",
     "phone": "(650) 620-0912",
     "url": "https://armixz.github.io/",
-    "summary": "I'm a Computer Scientist with a BS in Computer Science. I love tech, optimize systems, and attend tech conferences. Always exploring and coding!",
+    "summary": "Senior MLOps Engineer specializing in Kubernetes infrastructure, CI/CD pipelines, and enterprise-scale cloud solutions. Computer Science graduate from UT Dallas with expertise in machine learning operations, distributed systems, and production software engineering.",
     "location": {
-      "address": "510 Shannon Way",
-      "postalCode": "CA 94065",
-      "city": "Redwood City",
+      "address": "",
+      "postalCode": "CA 94401",
+      "city": "San Mateo",
       "countryCode": "US",
       "region": "California"
     },
@@ -19,27 +19,68 @@
         "network": "GitHub",
         "username": "armixz",
         "url": "https://github.com/armixz"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "armin-ziaei-9594748b",
+        "url": "https://linkedin.com/in/armin-ziaei-9594748b"
       }
     ]
   },
   "work": [
     {
-      "name": "HHAeXchange",
-      "position": "Software Engineer",
-      "url": "https://hhaexchange.com",
-      "startDate": "2023-01-01",
+      "name": "Aktus AI",
+      "position": "Senior MLOps Engineer",
+      "url": "https://aktus.ai",
+      "startDate": "2025-03-01",
       "endDate": "",
-      "summary": "Coordination . Maintenance . Automation . Backup . Collaboration . Documentation . Training . Alerting . Monitoring",
-      "highlights": ["DevOps", "CloudOps", "Incident Management"]
+      "summary": "Enterprise Kubernetes Infrastructure . Marketplace Deployment Solutions . CI/CD Pipeline Engineering",
+      "highlights": ["MLOps", "Kubernetes", "Infrastructure", "GPU Workloads", "Auto-scaling"]
+    },
+    {
+      "name": "Aktus AI",
+      "position": "MLOps Engineer Intern",
+      "url": "https://aktus.ai",
+      "startDate": "2024-08-01",
+      "endDate": "2025-03-01",
+      "summary": "Production RAG Systems . Microservices Architecture . CI/CD Automation . Google Cloud Platform",
+      "highlights": ["MLOps", "RAG Systems", "GCP", "Helm Charts", "GitHub Actions"]
     },
     {
       "name": "HHAeXchange",
-      "position": "Software Engineer",
+      "position": "Cloud Operations Engineer",
       "url": "https://hhaexchange.com",
-      "startDate": "2021-04-10",
+      "startDate": "2024-01-01",
+      "endDate": "2025-02-01",
+      "summary": "Backup & Disaster Recovery . Healthcare Data Protection . Automation Workflows . HIPAA Compliance",
+      "highlights": ["CloudOps", "Disaster Recovery", "Healthcare Compliance", "Python Automation", "500TB+ Data"]
+    },
+    {
+      "name": "HHAeXchange",
+      "position": "System Management and Response",
+      "url": "https://hhaexchange.com",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Incident Response Management . Alert Processing . SLA Compliance . Real-time Monitoring",
+      "highlights": ["Incident Management", "300+ Daily Alerts", "99.8% SLA", "MTTR Reduction", "Escalation Workflows"]
+    },
+    {
+      "name": "HHAeXchange",
+      "position": "System Operations Engineer",
+      "url": "https://hhaexchange.com",
+      "startDate": "2022-01-01",
       "endDate": "2022-12-31",
-      "summary": "Troubleshooting . Analysis . Solutions . Training . Documentation . Monitoring . Reviews . Automation . Scripting",
-      "highlights": ["Site Reliability Engineering", "System Operations Engineer"]
+      "summary": "Monitoring Solutions . Datadog Implementation . Technical Training . Operational Procedures",
+      "highlights": ["Monitoring", "Datadog", "Training Programs", "Custom Dashboards", "Team Leadership"]
+    },
+    {
+      "name": "HHAeXchange",
+      "position": "System Operations Engineer Intern",
+      "url": "https://hhaexchange.com",
+      "startDate": "2021-04-01",
+      "endDate": "2021-12-31",
+      "summary": "Production Architecture Monitoring . Root Cause Analysis . Performance Optimization . System Stability",
+      "highlights": ["System Monitoring", "Root Cause Analysis", "Performance Optimization", "Production Support"]
     }
   ],
   "education": [
@@ -51,7 +92,7 @@
       "studyType": "BS",
       "startDate": "2018",
       "endDate": "2022",
-      "score": "3.87",
+      "score": "3.86",
       "courses": [
         "Discrete Mathematics for Computing",
         "Computer Architecture",
@@ -113,25 +154,62 @@
     },
     {
       "name": "A Comparative Analysis of the Machine Learning Methods for Predicting Diabetes",
-      "publisher": "SCIENTIFIC OASIS",
+      "publisher": "Journal of Operations Intelligence",
       "releaseDate": "2024-05-18",
       "url": "https://jopi-journal.org/index.php/jopi/article/view/21",
       "summary": "Diabetes can lead to various health problems and complications, such as cardiovascular disease, kidney damage (nephropathy), eye issues, neuropathy, and foot ailments. In this study, we compare the performance of nine machine-learning classification models in predicting diabetes."
+    },
+    {
+      "name": "A Comparison of Methods for Predicting Heart Disease: Neural Network, XGBoost, Gradient Boost, Logistic Regression, and SVM",
+      "publisher": "Under Review",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": "A comprehensive comparative study of machine learning methods for heart disease prediction, analyzing the performance of neural networks, ensemble methods, and traditional statistical approaches to improve cardiovascular disease diagnosis."
     }
   ],
   "skills": [
     {
-      "name": "Software Engineer",
+      "name": "MLOps & DevOps",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-server",
       "keywords": [
+        "Kubernetes",
+        "Docker",
+        "CI/CD Pipelines",
+        "Google Cloud Platform",
+        "AWS CloudFormation",
+        "Helm Charts",
+        "GitHub Actions",
+        "Infrastructure as Code"
+      ]
+    },
+    {
+      "name": "Programming & Development",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "Java",
+        "C/C++",
+        "Bash Scripting",
+        "PowerShell",
+        "SQL",
+        "Machine Learning",
+        "Microservices Architecture"
+      ]
+    },
+    {
+      "name": "System Operations",
+      "level": "Master",
+      "icon": "fa-solid fa-gear",
+      "keywords": [
+        "Monitoring & Alerting",
+        "Incident Management",
         "Root Cause Analysis",
-        "Technical Troubleshooting",
-        "Technical Documentation",
-        "Technology Monitoring Tools",
-        "Emergency Response",
-        "Priority Incident Recommendations",
-        "Excellent Math Skills"
+        "Datadog",
+        "Performance Optimization",
+        "System Administration",
+        "Healthcare Compliance"
       ]
     }
   ],
@@ -149,15 +227,27 @@
   ],
   "interests": [
     {
-      "name": "Geek",
-      "icon": "fa-solid fa-tag",
+      "name": "Technology & Innovation",
+      "icon": "fa-solid fa-microchip",
       "keywords": [
-        "Programming",
+        "Cloud Technologies",
+        "Machine Learning",
+        "Open Source",
+        "DevOps Tools",
+        "Kubernetes",
+        "Tech Conferences"
+      ]
+    },
+    {
+      "name": "Hardware & DIY",
+      "icon": "fa-solid fa-screwdriver-wrench",
+      "keywords": [
         "Flipper Zero",
-        "Hacking",
         "Raspberry Pi",
+        "Hardware Hacking",
         "DIY Projects",
-        "Open Source"
+        "Electronics",
+        "Programming"
       ]
     }
   ],
