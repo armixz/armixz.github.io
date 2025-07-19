@@ -2,7 +2,7 @@
 layout: page
 title: Enterprise Task Management Platform
 description: Full-stack web application with PHP, Apache, and SQL database
-img: assets/img/task-manager.jpg
+# img: assets/img/task-manager.jpg
 importance: 4
 category: work
 github: https://github.com/armixz/Task-Manager-Development

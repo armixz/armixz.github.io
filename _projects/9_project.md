@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Algorithm AI Search Engine
 description: Sophisticated 8-puzzle solver with four distinct search algorithms
-img: assets/img/8-puzzle.jpg
+# img: assets/img/8-puzzle.jpg
 importance: 9
 category: work
 github: https://github.com/armixz/8-Puzzle-Solver

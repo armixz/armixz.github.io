@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Protocol Network Chat System
 description: Real-time communication system supporting TCP and UDP protocols
-img: assets/img/chat.jpg
+# img: assets/img/chat.jpg
 importance: 11
 category: work
 github: https://github.com/armixz/Chat-System-Development

@@ -2,7 +2,7 @@
 layout: page
 title: Operating System Process Simulator
 description: Multi-process computer system simulation with IPC communication
-img: assets/img/simulator.jpg
+# img: assets/img/simulator.jpg
 importance: 5
 category: work
 github: https://github.com/armixz/Computer-System-Simulation

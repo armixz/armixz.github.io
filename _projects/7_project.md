@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning Algorithm Library
 description: Comprehensive ML framework with 12 fundamental algorithms
-img: assets/img/ML.jpg
+# img: assets/img/ML.jpg
 importance: 7
 category: work
 github: https://github.com/armixz/Machine-Learning-Theory

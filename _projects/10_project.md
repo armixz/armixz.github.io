@@ -2,7 +2,7 @@
 layout: page
 title: 32-Bit ALU Hardware Architecture
 description: Comprehensive 32-bit Arithmetic Logic Unit using Verilog HDL
-img: assets/img/ALU.jpg
+# img: assets/img/ALU.jpg
 importance: 10
 category: work
 github: https://github.com/armixz/ALU-Design-and-Development
