@@ -169,47 +169,54 @@
   ],
   "skills": [
     {
-      "name": "MLOps & DevOps",
+      "name": "Cloud & Infrastructure",
       "level": "Master",
-      "icon": "fa-solid fa-server",
+      "icon": "fa-solid fa-cloud",
       "keywords": [
+        "AWS",
+        "GCP", 
+        "Azure",
         "Kubernetes",
-        "Docker",
-        "CI/CD Pipelines",
-        "Google Cloud Platform",
+        "Ansible",
+        "Kafka",
+        "RabbitMQ",
+        "SQS",
         "AWS CloudFormation",
-        "Helm Charts",
-        "GitHub Actions",
-        "Infrastructure as Code"
+        "GCP Deployment Manager"
       ]
     },
     {
-      "name": "Programming & Development",
+      "name": "Development & Programming",
       "level": "Master",
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
-        "Java",
         "C/C++",
-        "Bash Scripting",
-        "PowerShell",
-        "SQL",
-        "Machine Learning",
-        "Microservices Architecture"
+        "Kubeflow",
+        "MLflow",
+        "Weights & Biases",
+        "Pinecone",
+        "Qdrant",
+        "Verilog/VHDL",
+        "Prolog Logic",
+        "Database Design"
       ]
     },
     {
-      "name": "System Operations",
+      "name": "DevOps & Monitoring",
       "level": "Master",
       "icon": "fa-solid fa-gear",
       "keywords": [
-        "Monitoring & Alerting",
-        "Incident Management",
-        "Root Cause Analysis",
+        "Git",
+        "Terraform",
+        "Helm",
+        "Docker",
         "Datadog",
-        "Performance Optimization",
-        "System Administration",
-        "Healthcare Compliance"
+        "Prometheus",
+        "Grafana",
+        "Linux/Unix",
+        "TCP/UDP",
+        "CI/CD Pipelines"
       ]
     }
   ],
