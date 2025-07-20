@@ -192,6 +192,8 @@
       "keywords": [
         "Python",
         "C/C++",
+        "PyTorch",
+        "TensorFlow",
         "Kubeflow",
         "MLflow",
         "Weights & Biases",
