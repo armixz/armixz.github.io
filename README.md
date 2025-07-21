@@ -17,10 +17,17 @@ I'm a Senior MLOps Engineer specializing in:
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, Bash, C/C++, Java, SQL, Verilog/VHDL, Prolog  
-**Cloud & DevOps**: Kubernetes, Docker, AWS, GCP, Azure, Terraform, Helm, Jenkins  
-**ML & Monitoring**: MLflow, scikit-learn, Prometheus, Grafana, Datadog  
-**Systems**: Linux/Unix Administration, Network Protocols, Database Design
+**Languages**: Python, C/C++  
+**Infrastructure**: Kubernetes, Ansible, Message Queues (Kafka, RabbitMQ, SQS)  
+**Clouds**: AWS, GCP, Azure  
+**DevOps**: Git, Terraform, Helm, Docker  
+**MLOps**: Kubeflow, MLflow, Weights & Biases  
+**ML/AI Frameworks**: PyTorch, TensorFlow  
+**Monitoring**: Datadog, Prometheus, Grafana  
+**Vector DB**: Pinecone, Qdrant  
+**Marketplace**: GCP Deployment Manager, AWS CloudFormation  
+**Systems**: Linux/Unix, TCP/UDP, Database Design  
+**Hardware/Logic**: Verilog/VHDL, Prolog Logic
 
 ## 📂 Featured Projects
 

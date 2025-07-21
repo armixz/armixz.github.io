@@ -39,7 +39,7 @@
     },
     {
       "name": "Aktus AI",
-      "position": "MLOps Engineer Intern",
+      "position": "MLOps Engineer",
       "url": "https://aktus.ai",
       "startDate": "2024-08-01",
       "endDate": "2025-03-01",
@@ -169,56 +169,111 @@
   ],
   "skills": [
     {
-      "name": "Cloud & Infrastructure",
-      "level": "Master",
-      "icon": "fa-solid fa-cloud",
-      "keywords": [
-        "AWS",
-        "GCP", 
-        "Azure",
-        "Kubernetes",
-        "Ansible",
-        "Kafka",
-        "RabbitMQ",
-        "SQS",
-        "AWS CloudFormation",
-        "GCP Deployment Manager"
-      ]
-    },
-    {
-      "name": "Development & Programming",
+      "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
       "keywords": [
         "Python",
-        "C/C++",
-        "PyTorch",
-        "TensorFlow",
-        "Kubeflow",
-        "MLflow",
-        "Weights & Biases",
-        "Pinecone",
-        "Qdrant",
-        "Verilog/VHDL",
-        "Prolog Logic",
-        "Database Design"
+        "C/C++"
       ]
     },
     {
-      "name": "DevOps & Monitoring",
+      "name": "Infrastructure",
+      "level": "Master",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "Kubernetes",
+        "Ansible",
+        "Kafka",
+        "RabbitMQ",
+        "SQS"
+      ]
+    },
+    {
+      "name": "Clouds",
+      "level": "Master",
+      "icon": "fa-solid fa-cloud",
+      "keywords": [
+        "AWS",
+        "GCP",
+        "Azure"
+      ]
+    },
+    {
+      "name": "DevOps",
       "level": "Master",
       "icon": "fa-solid fa-gear",
       "keywords": [
         "Git",
         "Terraform",
         "Helm",
-        "Docker",
+        "Docker"
+      ]
+    },
+    {
+      "name": "MLOps",
+      "level": "Master",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "Kubeflow",
+        "MLflow",
+        "Weights & Biases"
+      ]
+    },
+    {
+      "name": "ML/AI Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "level": "Master",
+      "icon": "fa-solid fa-chart-line",
+      "keywords": [
         "Datadog",
         "Prometheus",
-        "Grafana",
+        "Grafana"
+      ]
+    },
+    {
+      "name": "Vector DB",
+      "level": "Master",
+      "icon": "fa-solid fa-database",
+      "keywords": [
+        "Pinecone",
+        "Qdrant"
+      ]
+    },
+    {
+      "name": "Marketplace",
+      "level": "Master",
+      "icon": "fa-solid fa-store",
+      "keywords": [
+        "GCP Deployment Manager",
+        "AWS CloudFormation"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "Master",
+      "icon": "fa-solid fa-server",
+      "keywords": [
         "Linux/Unix",
         "TCP/UDP",
-        "CI/CD Pipelines"
+        "Database Design"
+      ]
+    },
+    {
+      "name": "Hardware/Logic",
+      "level": "Master",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Verilog/VHDL",
+        "Prolog Logic"
       ]
     }
   ],

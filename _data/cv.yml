@@ -43,7 +43,7 @@
         - Architected one-click marketplace deployment solutions using GCP Deployment Manager and AWS CloudFormation, enabling complete infrastructure provisioning in under 10 minutes.
         - Established comprehensive CI/CD pipelines for 15+ marketplace products, implementing automated testing and deployment workflows.
 
-    - title: MLOps Engineer Intern
+    - title: MLOps Engineer
       institution: Aktus AI, San Mateo, CA
       year: 08/2024 - 03/2025
       description:
@@ -168,39 +168,57 @@
 - title: Technical Skills
   type: nested_list
   contents:
-    - title: Programming Languages
+    - title: Languages
       items:
         - Python
-        - Bash
         - C/C++
-        - Java
-        - SQL
-        - Verilog/VHDL
-        - Prolog
-    - title: Cloud & DevOps
+    - title: Infrastructure
       items:
         - Kubernetes
-        - Docker
+        - Ansible
+        - Message Queues (Kafka, RabbitMQ, SQS)
+    - title: Clouds
+      items:
         - AWS
         - GCP
         - Azure
+    - title: DevOps
+      items:
         - Git
-        - Jenkins
         - Terraform
         - Helm
-        - MLflow
-    - title: Monitoring & Observability
+        - Docker
+    - title: MLOps
       items:
+        - Kubeflow
+        - MLflow
+        - Weights & Biases
+    - title: ML/AI Frameworks
+      items:
+        - PyTorch
+        - TensorFlow
+    - title: Monitoring
+      items:
+        - Datadog
         - Prometheus
         - Grafana
-    - title: Systems & Networking
+    - title: Vector DB
       items:
-        - Linux/Unix Systems Administration
-        - Network Protocols (TCP/UDP)
-        - Database Design and Management
-    - title: Machine Learning
+        - Pinecone
+        - Qdrant
+    - title: Marketplace
       items:
-        - scikit-learn
+        - GCP Deployment Manager
+        - AWS CloudFormation
+    - title: Systems
+      items:
+        - Linux/Unix
+        - TCP/UDP
+        - Database Design
+    - title: Hardware/Logic
+      items:
+        - Verilog/VHDL
+        - Prolog Logic
 
 - title: Interests
   type: list
